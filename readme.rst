@@ -1,8 +1,10 @@
-Please review the code , it is complete working code except that I have removed the API KEY because it was sensitive information.
-I have used the best practices. As the code was totally oriented on the API integration so there was not much work to optimize code or anything else.
-The functionality is working fine as i am sharing the screencast video link which shows my functionality.
+I have updated the code . Things I have completed.
 
-https://drive.google.com/file/d/1bN7yKOE9magLiTBhoXR07nBHdoTr0Vf1/view
+Cleaned code(formatted and removed extra comments)
+Added error handling and logging(you can view the logs working in video)
+Add unit test(you can check the unit test result in video)
+Solid Principles(unit test controller has responsibility for only performing unit tests Fulfilling Single Responsibilty Principle)
 
+Here is the screencast of my work:
 
-please feel free to connect with me in case of any issues
+https://drive.google.com/file/d/1hcoaz_b5mb_RDWQaCjMThpaOU_MULSF_/view
