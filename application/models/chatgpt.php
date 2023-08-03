@@ -7,7 +7,7 @@ class chatgpt extends CI_Model
 {
     public function chatApi($userQuery)
     {
-        $open_ai_key = "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";
+        $open_ai_key = "dummy";
 
         $open_ai = new OpenAi($open_ai_key);
 
